@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: traduction Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: traduction
+  m_TableCollectionNameGuidString: 85c9c53c3ffb3384b8dd1c5cef1e3a16
+  m_Entries:
+  - m_Id: 121805864960
+    m_Key: turret main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4617235726336
+    m_Key: spetial main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6143828164608
+    m_Key: power up main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6941551230976
+    m_Key: Musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7297521811456
+    m_Key: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9502386220564480
+    m_Key: amelioration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22887843234971648
+    m_Key: up0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22889088469303296
+    m_Key: up1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22889253326422016
+    m_Key: up2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22889420909838336
+    m_Key: up3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22889547162583040
+    m_Key: up4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22889692059009024
+    m_Key: up5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22889821793026048
+    m_Key: up6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22890059102552064
+    m_Key: up7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22891119103836160
+    m_Key: up8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22891274620239872
+    m_Key: up9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22891414542221312
+    m_Key: up10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22892946834718720
+    m_Key: addTuret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22893225101623296
+    m_Key: sellTuret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22894663462682624
+    m_Key: debloque3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22906121181331456
+    m_Key: gojo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23258629569380352
+    m_Key: solo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23258851582279680
+    m_Key: multi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23260477705551872
+    m_Key: facile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23261089906163712
+    m_Key: normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23261438020812800
+    m_Key: Difficile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23261601749663744
+    m_Key: Impossible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23262313070067712
+    m_Key: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23263888815554560
+    m_Key: Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23263912614035456
+    m_Key: Register
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23263933270982656
+    m_Key: Try login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23263955534348288
+    m_Key: Try register
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23263994994360320
+    m_Key: Email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23264008768454656
+    m_Key: Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23264026283868160
+    m_Key: Pseudo
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4916780246384246808
+  references:
+    version: 2
+    RefIds:
+    - rid: 4916780246384246808
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1711613797648
